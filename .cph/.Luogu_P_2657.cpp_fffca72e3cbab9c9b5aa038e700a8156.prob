@@ -1,0 +1,1 @@
+{"name":"Luogu - P2657","url":"https://www.luogu.com.cn/problem/P2657","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"1 10","output":"9","id":1759496495343},{"id":1759496495344,"input":"25 50\n","output":"20\n"}],"group":"luogu","srcPath":"e:\\Code\\Luogu_P_2657.cpp"}
