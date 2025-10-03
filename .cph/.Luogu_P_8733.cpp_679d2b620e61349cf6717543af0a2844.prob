@@ -1,0 +1,1 @@
+{"name":"Luogu - P8733","url":"https://www.luogu.com.cn/problem/P8733","memoryLimit":262144,"timeLimit":2000,"tests":[{"id":1759491003766,"input":"4 6\n1 1\n4 5\n8 5\n11 1","output":"28.00"}],"group":"luogu","srcPath":"e:\\Code\\Luogu_P_8733.cpp"}
